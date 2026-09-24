@@ -1,0 +1,7 @@
+# local tool configuration
+.openclaude/
+__pycache__/
+
+# assembler intermediates (regenerate with --lst / --sym)
+terminal.lst
+terminal.sym
